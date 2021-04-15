@@ -2,7 +2,7 @@
 
 A Web App to interact and visualize the analysis on COVID 19 spread across the world. 
 
-App is deployed in Heroku, click the link to access it : [Open in Heroku]()
+App is deployed in Heroku, click the link to access it : [Open in Heroku](https://covid19-dashboard--app.herokuapp.com/) 
 
 ## Summary
 
